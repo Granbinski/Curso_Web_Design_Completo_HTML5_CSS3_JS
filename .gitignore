@@ -1,0 +1,33 @@
+# Arquivos de log
+logs/
+
+# Arquivos temporários
+tmp/
+temp/
+
+# Arquivos de backup
+*.bak
+*.swp
+
+# Arquivos gerados automaticamente
+node_modules/
+vendor/
+
+# Arquivos de configuração de ambiente local
+.env
+
+# Arquivos de cache
+.sass-cache/
+.cache/
+
+# Arquivos gerados automaticamente pelo sistema operacional
+Thumbs.db
+.DS_Store
+
+# Arquivos de configuração do editor de código
+.vscode/
+.idea/
+
+# Arquivos de saída de compilação
+dist/
+build/
